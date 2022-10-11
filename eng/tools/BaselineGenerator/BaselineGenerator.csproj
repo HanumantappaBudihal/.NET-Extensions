@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NuGet.Protocol" Version="4.8.2" />
+    <PackageReference Include="NuGet.Protocol" Version="4.9.6+a32bce39889f724fbd11cfd12e946f802168b583" />
   </ItemGroup>
 
   <Import Project="..\..\..\src\Shared\src\CommandLineUtils\Microsoft.Extensions.CommandLineUtils.Sources.projitems" Label="Shared" />
